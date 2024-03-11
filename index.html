@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Simple Calculator</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="bg"></div>
+    <div class="bg bg2"></div>
+    <div class="bg bg3"></div>
+    <div class="hero">
+      <h1>Simple Calculator</h1>
+      <div class="operator">
+        <label for="var1"><h2>Entre Operation</h2></label>
+        <input
+          type=""
+          id="operator"
+          name="operator"
+          placeholder="+,-,*,/"
+        /><br />
+      </div>
+      <div class="val1">
+        <label for="val1"><h2>Number 1:</h2></label>
+        <input
+          type="number"
+          id="val1"
+          name="val1"
+          placeholder="Enter First Number"
+        /><br />
+      </div>
+      <div class="val2">
+        <label for="val2"><h2>Number 2:</h2></label>
+        <input
+          type="number"
+          id="val2"
+          name="val2"
+          placeholder="Enter Second Number"
+        /><br />
+      <button id="btn">Calculate</button><br />
+      <p id="res">The result will be shown here</p>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
