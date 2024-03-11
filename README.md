@@ -1,3 +1,3 @@
 # Simple Calculator Made Using 
- Simple Calculator With Amazing Background
+ Simple Calculator With Amazing Background ![SS](https://github.com/Kingsman119/Multiplication-Table-Of-Number/assets/154053800/3a7fc469-ea27-4c46-b5ee-a4d8c6abfb4f)
 ![SS](https://github.com/Kingsman119/Simple-Calculator/assets/154053800/cbc3d155-81f1-47c0-86fe-838c52efd9ce)
